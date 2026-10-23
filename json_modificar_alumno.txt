@@ -1,0 +1,17 @@
+{
+  "tenant_id": "UTEC",
+  "alumno_id": "2021077990",
+  "alumno_datos": {
+    "nombre": "Juana del Arco (modificada)",
+    "sexo": "F",
+    "fecha_nac": "2000-09-01",
+    "celular": "999000111",
+    "domicilio": {
+      "direcc": "Av. La Molina 1234",
+      "distrito": "La Molina",
+      "provincia": "Lima",
+      "departamento": "Lima",
+      "pais": "Perú"
+    }
+  }
+}
